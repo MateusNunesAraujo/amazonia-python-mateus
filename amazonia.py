@@ -2,8 +2,9 @@
 #Programa Sobre animales de la Amazonia
 
 animales = [
-    {"nombre": "Jaguar", "dato": " Es el felino mas grande de America.",
-     "nombre": "America Monkey", "dato": "It's a America Monkey from Africa"},
+    {"nombre": "Jaguar", "dato": " Es el felino mas grande de America."},
+    {"nombre": "America Monkey", "dato": "It's a America Monkey from Africa"},
+    {"nombre": "Caiman", "dato": "Es un caiman"}
 ]
 print("=== Animales de la Amazonia ===")
 for animal in animales :
